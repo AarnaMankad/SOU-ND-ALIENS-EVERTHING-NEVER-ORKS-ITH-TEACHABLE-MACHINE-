@@ -1,0 +1,47 @@
+body{
+background-color:lightseagreen ;
+}
+
+
+
+#heading{
+    font-family:'Special Elite', cursive;
+    color: lightcoral;
+    font-weight: bolder;
+}
+
+
+#note{
+    font-family: 'Dancing Script', cursive;
+    color: lightgreen;
+    letter-spacing: 2px;
+
+}
+
+#start{
+    background-color: rgb(250, 250, 131);
+    color: orchid;
+    border-radius: 20%;
+    font-family: 'Rampart One', cursive;
+}
+
+
+#result_label{
+    font-family: 'Lobster', cursive;
+    color: lightgreen;
+}
+
+#result_confidence{
+    font-family: 'Lobster', cursive;
+    color: lightblue;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightgreen;
+}
